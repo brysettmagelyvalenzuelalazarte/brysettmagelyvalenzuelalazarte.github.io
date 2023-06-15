@@ -1,0 +1,8 @@
+<style>
+  .boton {
+    padding: 10px 20px;
+    margin-bottom: 10px;
+  }
+</style>
+
+<button class="boton">Mi botón</button>
